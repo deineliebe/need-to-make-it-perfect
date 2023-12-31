@@ -37,10 +37,10 @@ html {
     font-family: 'Raleway', sans-serif;
     font-size: 116px;
     font-weight: 800;
-    letter-spacing: 3.5px;
+    letter-spacing: 4.06px;
     text-transform: uppercase;
     max-width: 730px;
-    margin: 0 auto;
+    margin: 60px auto;
     z-index: 1;
 }
 
@@ -69,8 +69,9 @@ html {
     text-transform: initial;
     max-width: 760px;
     box-shadow: 0 12px 0 #000;
-    top: 180px;
+    top: 240px;
     padding: 36px 44px;
     right: 20px;
+    letter-spacing: 0;
     white-space: pre;
 } 
